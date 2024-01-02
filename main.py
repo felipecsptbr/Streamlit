@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
 # Chave da API do TMDb (obtenha a sua em https://www.themoviedb.org/documentation/api)
-TMDB_API_KEY = '5fb2166dd255c24d45f118c0dfd5ffe8'
+TMDB_API_KEY = 'API_KEY'
 
 # Função para carregar dados do TMDb
 def load_movie_data(category_id=None):
