@@ -24,3 +24,6 @@ Lista de Filmes ou Recomendações de Gênero:
 
 Dependendo da escolha do usuário, a interface exibirá ou a lista de filmes da categoria selecionada ou as recomendações de gênero.
 Certifique-se de incluir informações sobre a chave da API TMDb, talvez através de um arquivo de configuração ou variável de ambiente, ao compartilhar o código no GitHub para garantir a segurança da sua chave.
+
+![image](https://github.com/felipecsptbr/Streamlit/assets/117038808/67ed6122-c2c2-4b8d-91af-8a14f1c3cd1e)
+
